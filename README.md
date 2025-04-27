@@ -5,10 +5,10 @@ NAME : REKLIES J
 
 REG NO : 212223110041
 
-## AIM
+## AIM :
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+## DESIGN STEPS :
 
 ### STEP 1
 Create a Django admin interface.
@@ -28,8 +28,8 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
-1
+## CODE :
+1 :
 ```
 <html>
 
@@ -69,7 +69,7 @@ Execute the programs and publish them.
 
 </html>
 ```
-2
+2 :
 ```
 <html>
 
@@ -107,7 +107,7 @@ Marthandam is the second largest town in the district. It derived its name from 
 
 </html>
 ```
-3
+3 :
 ```
 <html>
 
@@ -144,7 +144,7 @@ Marthandam is the second largest town in the district. It derived its name from 
 
 </html>
 ```
-4
+4 :
 ```
 <html>
 
