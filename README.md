@@ -1,9 +1,9 @@
 # Ex04 Places Around Me
 ## Date: 27.04.2025
 
-NAME : REKLIES J
+## NAME : REKLIES J
 
-REG NO : 212223110041
+## REG NO : 212223110041
 
 ## AIM :
 To develop a website to display details about the places around my house.
@@ -29,7 +29,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE :
-1 :
+## 1 :
 ```
 <html>
 
@@ -69,7 +69,7 @@ Execute the programs and publish them.
 
 </html>
 ```
-2 :
+## 2 :
 ```
 <html>
 
@@ -107,7 +107,7 @@ Marthandam is the second largest town in the district. It derived its name from 
 
 </html>
 ```
-3 :
+## 3 :
 ```
 <html>
 
@@ -144,7 +144,7 @@ Marthandam is the second largest town in the district. It derived its name from 
 
 </html>
 ```
-4 :
+## 4 :
 ```
 <html>
 
